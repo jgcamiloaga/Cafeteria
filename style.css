@@ -1,4 +1,10 @@
-*{
-    border-radius: 0;
-    padding: 0;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+:root{
+    --primary-color: #c7a17a;
+    --background-color: #f9f5f0;
+    --dark-color: #151515;
+}
+
+html{
+    font-size: 62.5%;
 }
