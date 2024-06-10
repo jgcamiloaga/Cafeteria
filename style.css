@@ -7,4 +7,21 @@
 
 html{
     font-size: 62.5%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.conteiner{
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+.conteiner-hero{
+    background-color: var(--background-color);
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
 }
