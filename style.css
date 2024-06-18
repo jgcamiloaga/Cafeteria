@@ -25,3 +25,60 @@ html{
     align-items: center;
     padding: 2rem 0;
 }
+
+.customer-support{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.customer-support i{
+    font-size: 3.3rem;
+}
+
+.content-customer-support{
+    display: flex;
+    flex-direction: column;
+}
+
+.conteiner-logo{
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+
+.conteiner-logo i {
+    font-size: 3rem;
+}
+
+.conteiner-logo h1 a{
+    text-decoration:none;
+    color: #000;
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+
+.conteiner-user{
+    display: flex;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.conteiner-user .fa-user{
+    font-size: 3rem;
+    color: var(--primary-color);
+    padding-right: 2.5rem;
+    border-right: 1px solid #e2e2e2;
+}
+
+.conteiner-user .fa-basket-shopping{
+    font-size: 3rem;
+    color: var(--primary-color);
+    padding-left: 1rem;
+}
+
+.content-shopping-cart{
+    display: flex;
+    flex-direction: column;
+}
