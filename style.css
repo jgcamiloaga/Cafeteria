@@ -82,3 +82,7 @@ html{
     display: flex;
     flex-direction: column;
 }
+
+.conteiner-navbar{
+    background-color: var(--primary-color);
+}
