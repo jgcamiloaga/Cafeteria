@@ -176,3 +176,10 @@ html{
     font-size: 2rem;
     color: #fff;
 }
+
+.banner{
+    background-image: linear-gradient(100deg, #000000, #00000020), url('img/banner.jpg');
+    height: 60rem;
+    background-size: cover;
+    background-position: center;   
+}
