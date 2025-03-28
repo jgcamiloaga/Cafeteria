@@ -55,4 +55,4 @@ Este proyecto está bajo licencia MIT. Ver el archivo `LICENSE` para más detall
 
 ---
 
-⭐ Si te ha gustado este proyecto, ¡no dudes en darle una estrella!
+⭐ Si te ha gustado este proyecto, ¡no dudes en darle una estrella y compartirlo!
